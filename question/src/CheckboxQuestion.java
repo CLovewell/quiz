@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class CheckboxQuestion {
+public class CheckboxQuestion extends Question {
+    //TODO: implement displayQuestion
+    public void displayQuestion() {
+
+    }
 }
